@@ -11,4 +11,4 @@ function LostBanner({ answer }) {
   ) ;
 }
 
-export default LostBanner;
+export default LostBanner; 
