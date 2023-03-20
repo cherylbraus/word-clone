@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"; 
 
 function GuessText({ handleSubmitGuess, gameStatus }) {
   const [tentativeGuess, setTentativeGuess] = React.useState('')
